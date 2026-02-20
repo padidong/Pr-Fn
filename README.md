@@ -30,7 +30,7 @@ sc query mysql
 **วิธีที่ 1 — ใช้ไฟล์ SQL อัตโนมัติ (แนะนำ):**
 ```bash
 cd server
-mysql -u root -pP19098_ppd#02 < setup.sql
+mysql -u root -p PassWord < setup.sql
 ```
 
 **วิธีที่ 2 — รันทีละคำสั่งใน MySQL Workbench:**
@@ -87,7 +87,7 @@ Backend อยู่ในโฟลเดอร์ `server/` ค่า connectio
 ```
 DB_HOST=localhost
 DB_USER=root
-DB_PASS=P19098_ppd#02
+DB_PASS=PassWord
 DB_NAME=per_fn
 PORT=3000
 ```
