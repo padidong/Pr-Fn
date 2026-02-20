@@ -10,11 +10,6 @@
 - **AI Classification Demo**: จำลองการวิเคราะห์ด้วย AI
 - **Material 3 Design**: UI ทันสมัยด้วย Material 3
 
-## Important: Project Path
-> **โปรเจกต์ต้องอยู่ใน path ที่ไม่มีตัวอักษรภาษาไทย** เช่น `C:\Final66106337`
-> เนื่องจาก Java Gradle ไม่รองรับ Unicode path ทำให้ build Android ไม่ผ่าน
-> หากโปรเจกต์อยู่บน OneDrive (`เดสก์ท็อป`) ให้คัดลอกไปที่ `C:\Final66106337` ก่อนรัน
-
 ---
 
 ## ขั้นตอนที่ 1: ติดตั้ง Database (MySQL)
